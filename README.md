@@ -1,6 +1,6 @@
-## Welcome to GitHub Pages
+## Welcome to Vivek's Repository on Github
 
-You can use the [editor on GitHub](https://github.com/vivekmishra-sft/vivekmishra-sft.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+This repository lists all the project created by me for learning purpose.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
