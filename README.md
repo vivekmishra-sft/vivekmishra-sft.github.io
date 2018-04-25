@@ -1,4 +1,4 @@
-﻿## Welcome to Vivek's Repository on Github
+## Welcome to Vivek's Repository on Github
 
 This repository lists all the project created by me for learning purpose.
 
