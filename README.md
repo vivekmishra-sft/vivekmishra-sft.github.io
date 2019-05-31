@@ -1,6 +1,6 @@
-## Welcome to Mishraji.in
+## Welcome to Demo repository
 
-This website is a place for learning technology related things.
+This website is just for learning things about git.
 
 ### Few Posts to get started
   
